@@ -1,0 +1,7 @@
+name = "devops"
+description = "Specialist for Azure DevOps, vSphere, Terraform, and OS management."
+version = "1.0.0"
+
+[triggers]
+# The CLI will automatically activate this skill if your prompt matches these topics
+keywords = ["azure", "pipeline", "terraform", "vsphere", "ansible", "powershell", "pwsh", "ado"]
