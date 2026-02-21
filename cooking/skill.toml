@@ -1,0 +1,16 @@
+name = "cooking"
+description = "Chef assistant for recipes, meal planning, and grocery lists."
+version = "1.0.0"
+
+[triggers]
+keywords = [
+    "recipe", 
+    "cook", 
+    "dinner", 
+    "lunch", 
+    "grocery", 
+    "ingredients", 
+    "meal plan",
+    "healthy",
+    "nutrition"
+]
